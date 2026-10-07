@@ -16,14 +16,12 @@ type: Bug
 <sup>Steps to reproduce the behavior</sup>
 1. 
 
-**Expected behavior** ?
+**Expected behavior** _is this needed?_
 <sup>A clear and concise description of what you expected to happen</sup>
 
-##If applicable
+## If applicable
 **Error Message**
 
 **Screenshots**
-
-**Solution (if known):**
 
 **Additional notes**
