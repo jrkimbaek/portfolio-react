@@ -8,10 +8,12 @@ type: Bug
 
 ---
 
-**Describe the bug (intended vs actual behavior)**
+**Describe the bug**
+_Intended vs actual behavior:_
+
 
 **To Reproduce**
-Steps to reproduce the behavior:
+_Steps to reproduce the behavior:_
 1. 
 
 **Expected behavior** ?
