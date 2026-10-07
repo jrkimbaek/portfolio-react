@@ -9,15 +9,15 @@ type: Bug
 ---
 
 **Describe the bug**
-_Intended vs actual behavior:_
+<sup>Intended vs actual behavior</sup>
 
 
 **To Reproduce**
-_Steps to reproduce the behavior:_
+<sup>Steps to reproduce the behavior</sup>
 1. 
 
 **Expected behavior** ?
-A clear and concise description of what you expected to happen.
+<sup>A clear and concise description of what you expected to happen</sup>
 
 ##If applicable
 **Error Message**
